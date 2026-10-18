@@ -1,0 +1,22 @@
+{
+  "wheel_id": 413,
+  "structure": "umbrella",
+  "slug": "roofingcontractorstampa-108",
+  "project": "roofing-contractors-tampa-signs-you-need-ffde76c8666ce65f218",
+  "parent_t1_ref": "roofingcontractorstampa-153",
+  "node_role": "feeder",
+  "money_target": "roofingcontractorstampa.com",
+  "primary_kw": "roofing contractors tampa signs you need",
+  "intended_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/roofing-contractors-tampa-signs-you-need-ffde76c8666ce65f218/",
+  "tier": "T2",
+  "writeback_nonce": "0f8c82df2c248057",
+  "links": [
+    {
+      "target_url": "http://roofing-contractors-tampa-f927ea2f83f5b2cccd487d4462f86c89e24f7.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "Roofing Contractors Tampa: Checks Before You Commit",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
